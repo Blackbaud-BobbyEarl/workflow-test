@@ -14,3 +14,9 @@ Some other stuff
 
 - [ ] Step 1
 - [ ] Step 2
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
